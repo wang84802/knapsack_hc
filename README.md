@@ -1,5 +1,5 @@
 # knapsack_hc
-    01 knapsack problem dealing with hill climbing algorith
+    01 knapsack problem dealing with hill climbing algorithm
 
 # pseudocode
   
